@@ -59,7 +59,7 @@ This is analogous to the useEffect function in React.
 ### Desired Outcome: 
 Create a simple web page with the following elements:
 
-● An <h1> tag with an initial value of 0.
+● An h1 tag with an initial value of 0.
 
 ● A button labeled "Add" that, when clicked, increments the count, and the UI should reflect
 this change.
