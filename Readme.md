@@ -4,7 +4,7 @@
 
 - This project is a UI library developed within a monorepo structure using Lerna. It leverages the Snabbdom virtual DOM library for building efficient and reusable UI components. Additionally, the project includes state management functionality.
 
-URL: Buidling in progress.
+URL: https://main--count-llerna.netlify.app/
 
 ## Deploying the app locally
 
