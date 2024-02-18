@@ -24,9 +24,6 @@
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running Form](#-running-Form)
-    - [🧪 Tests](#-tests)
-- [🛣 Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
 ---
 
 ---
@@ -55,7 +52,7 @@ cd aniket_assignment
 npm install
 ```
 
-### 🤖 Running Form
+### 🤖 Running aniket_assignment
 
 ```sh
 npm run start
